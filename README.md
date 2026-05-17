@@ -525,7 +525,7 @@ Built with care — AS
 The full source code for this project is not publicly available. If you're interested in the complete system, a custom deployment, or have any questions:
 
 - **LinkedIn:** [Alexander S. D Great](https://www.linkedin.com/in/alexander-s-d-great)
-- **Email:** alexanderdgreat08@gmail.com
+- **Email:** alexander.s.dgreat@gmail.com
 
 ---
 
