@@ -17,7 +17,7 @@ Built by **Alexander.S D Great** — with care.
 > 📬 **If you'd like access to the complete codebase, want to discuss a deployment, or are interested in collaboration — reach out to me directly:**
 >
 > - **LinkedIn:** [Alexander S. D Great](https://www.linkedin.com/in/alexander-s-d-great)
-> - **Email:** alexanderdgreat08@gmail.com
+> - **Email:** alexander.s.dgreat@gmail.com
 >
 > _I'm happy to walk you through the system, discuss architecture decisions, or explore how it can be adapted for your use case._
 
