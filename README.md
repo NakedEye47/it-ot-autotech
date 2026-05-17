@@ -1,6 +1,6 @@
-# AutoTech Industrial Automation Suite
+# AutoTech IT/OT Automation Suite
 
-> A production-ready, full-stack industrial automation dashboard combining **OIS (Operations Intelligence System)** and **NIS (Network Intelligence System)** into a unified engineering platform.
+> A production-ready, full-stack IT/OT automation dashboard combining **OIS (Operations Intelligence System)** and **NIS (Network Intelligence System)** into a unified engineering platform.
 
 Built by **Alexander.S D Great** — with care.
 
